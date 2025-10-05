@@ -86,7 +86,8 @@
       "forwardTo": "120363293729218206@newsletter",
       "react": "cnrr",
       "Date": "2025-10-20",
-      "deleteDelay": "4000"
+      "deleteDelay": "4000",
+      "expireAt": "2025-10-05T20:54:00.000Z"
     }
   ]
 }
