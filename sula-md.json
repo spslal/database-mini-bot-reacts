@@ -20,7 +20,8 @@
       "forwardTo": "120363421060554246@newsletter",
       "react": ".cnrl",
       "Date": "2025/09/08",
-      "deleteDelay": "4000"
+      "deleteDelay": "4000",
+      "expireAt": "2025-10-15T00:00:00.000Z"
     },
     {
       "Developer": "Suhas💚💚",
@@ -32,7 +33,7 @@
       "react": ".cnrst",
       "Date": "2025/10/11",
       "deleteDelay": "4000"
-    },   
+    },
     {
       "Developer": "Sula❤️❤️",
       "Owner": "+255672984854",
@@ -54,7 +55,7 @@
       "react": ".cnrh",
       "Date": "2025/10/9",
       "deleteDelay": "4000"
-    },   
+    },
     {
       "Developer": "Sula❤️❤️",
       "Owner": "94771657914",
@@ -65,7 +66,7 @@
       "react": ".cnrr",
       "Date": "2025/09/19",
       "deleteDelay": "4000"
-    },   
+    },
     {
       "Developer": "Sula❤️❤️",
       "Owner": "94771657914",
@@ -76,7 +77,7 @@
       "react": ".cnras",
       "Date": "2025/",
       "deleteDelay": "4000"
-    },   
+    },
     {
       "Developer": "Sula❤️❤️",
       "Owner": "94762616911",
