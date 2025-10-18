@@ -110,8 +110,7 @@
       "forwardTo": "120363421363503978@newsletter",
       "react": ".cnrl",
       "Date": "2025-10-17",
-      "deleteDelay": "4000",
-      "expireAt": "2025-11-16T06:30:00.000Z"
+      "deleteDelay": "4000"
     },
     {
       "Developer": "Suhas💚💚",
@@ -122,7 +121,8 @@
       "forwardTo": "120363421363503978@newsletter",
       "react": ".cnrl",
       "Date": "2025-10-17",
-      "deleteDelay": "4000"
+      "deleteDelay": "4000",
+      "expireAt": "2025-11-16T06:30:00.000Z"
     },
     {
       "Developer": "Suhas💚💚",
