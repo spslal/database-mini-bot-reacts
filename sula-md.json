@@ -571,8 +571,8 @@
       "forwardTo": "120363421363503978@newsletter",
       "react": ".cnrl",
       "Date": "",
-      "expireAt": "2025-11-09T06:30:00.000Z"
       "deleteDelay": "4000",
+      "expireAt": "2025-11-09T06:30:00.000Z"
     },
     {
       "Developer": "Sula❤️❤️",
@@ -593,18 +593,7 @@
       "invite": "0029VbAm5BH6xCSMwvuzXh0o",
       "forwardTo": "120363421060554246@newsletter",
       "react": ".cnrl",
-      "expireAt": "2025-11-09T06:30:00.000Z"
-      "deleteDelay": "4000"
-    },
-    {
-      "Developer": "Sula 🩷👻",
-      "Owner": "94701934322",
-      "channelname": "postshare",
-      "jid": "120363391262055765@newsletter",
-      "invite": "0029Vb3Pq0v3bbVCOayAIp3f",
-      "forwardTo": "120363421363503978@newsletter",
-      "react": ".cnrsv",
-      "expireAt": "2025-11-15",
+      "Date": "2025-11-08",
       "deleteDelay": "4000"
     }
   ]
