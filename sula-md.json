@@ -22,7 +22,7 @@
       "Date": " ",
       "deleteDelay": "4000"
     },
-        {
+    {
       "Developer": "Suhas💚💚",
       "Owner": "suhasge",
       "channelname": "ස්ටිකර් ලන්තය | 💓😋",
@@ -276,7 +276,7 @@
       "Date": "",
       "deleteDelay": "4000"
     },
-        {
+    {
       "Developer": "Sula❤️❤️",
       "Owner": "Alex Malli",
       "channelname": "❝ස්ටේටස් || 𝐋𝐀𝐍𝐃 🌻🇱🇰",
@@ -582,7 +582,8 @@
       "forwardTo": "120363421363503978@newsletter",
       "react": ".cnrl",
       "Date": "2025/11/14",
-      "deleteDelay": "4000"
+      "deleteDelay": "4000",
+      "expireAt": "2025-11-14T00:00:00.000Z"
     }
   ]
 }
