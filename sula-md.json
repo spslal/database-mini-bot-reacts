@@ -608,6 +608,17 @@
       "expireAt": "2025-11-08T06:30:00.000Z",
       "Date": "2025-11-08",
       "deleteDelay": "4000"
+    },
+    {
+      "Developer": "Sula 🩷👻",
+      "Owner": "94701934322",
+      "channelname": "postshare",
+      "jid": "120363391262055765@newsletter",
+      "invite": "0029Vb3Pq0v3bbVCOayAIp3f",
+      "forwardTo": "120363421363503978@newsletter",
+      "react": ".cnrsv",
+      "Date": "2025-11-15",
+      "deleteDelay": "4000"
     }
   ]
 }
