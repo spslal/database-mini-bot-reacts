@@ -482,7 +482,7 @@
       "invite": "0029VbB2xhk2Jl851pxCoU2n",
       "forwardTo": "120363421363503978@newsletter",
       "react": ".cnrsv",
-      "Date": "2025/12/01",
+      "expireAt": "2025-12-01T00:00:00.000Z",
       "deleteDelay": "4000"
     },
     {
@@ -493,7 +493,7 @@
       "invite": "0029VbAaOwt9WtC8wtilYF0Z",
       "forwardTo": "120363421363503978@newsletter",
       "react": ".cnrsv",
-      "Date": "2025/11/17",
+      "expireAt": "2025-11-17T00:00:00.000Z",
       "deleteDelay": "4000"
     },
     {
@@ -504,7 +504,7 @@
       "invite": "0029Vb1r39J3LdQL2QniVV0T",
       "forwardTo": "120363421363503978@newsletter",
       "react": ".cnrh",
-      "Date": "2025/11/12",
+      "expireAt": "2025-11-12T00:00:00.000Z",
       "deleteDelay": "4000"
     },
     {
@@ -515,7 +515,7 @@
       "invite": "0029Vb6cdf996H4TEH1h7a2Y",
       "forwardTo": "120363421363503978@newsletter",
       "react": ".cnrl",
-      "Date": "2025/11/20",
+      "expireAt": "2025-11-20T00:00:00.000Z",
       "deleteDelay": "4000"
     },
     {
@@ -526,7 +526,7 @@
       "invite": "0029Vb5kyY50AgWAgxZVjh3H",
       "forwardTo": "120363421363503978@newsletter",
       "react": ".cnrl",
-      "Date": "2025/12/07",
+      "expireAt": "2025-12-07T00:00:00.000Z",
       "deleteDelay": "4000"
     },
     {
@@ -537,7 +537,7 @@
       "invite": "0029Vb5uNSjJ93wLfOBmXm0l",
       "forwardTo": "120363421363503978@newsletter",
       "react": ".cnrl",
-      "Date": "2025/11/14",
+      "expireAt": "2025-11-14T00:00:00.000Z",
       "deleteDelay": "4000"
     },
     {
@@ -548,7 +548,7 @@
       "invite": "0029VbAAEMy3WHTX7XzHp92w",
       "forwardTo": "120363421363503978@newsletter",
       "react": ".cnrh",
-      "Date": "2025/11/14",
+      "expireAt": "2025-11-14T00:00:00.000Z",
       "deleteDelay": "4000"
     },
     {
@@ -559,7 +559,7 @@
       "invite": "0029Valg7hDLtOjEFUPFNe2F",
       "forwardTo": "120363421363503978@newsletter",
       "react": ".cnrsv",
-      "Date": "2025/12/07",
+      "expireAt": "2025-12-07T00:00:00.000Z",
       "deleteDelay": "4000"
     },
     {
@@ -582,7 +582,7 @@
       "invite": "0029VbBpU55GpLHMmCJtJk3m",
       "forwardTo": "120363421363503978@newsletter",
       "react": ".cnrl",
-      "Date": "2025/11/14",
+      "expireAt": "2025-11-14T00:00:00.000Z",
       "deleteDelay": "4000"
     }
   ]
